@@ -1,0 +1,6 @@
+<!-- https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-parent -->
+<parent>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-parent</artifactId>
+    <version>1.5.5.RELEASE</version>
+</parent>
